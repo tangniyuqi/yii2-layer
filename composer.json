@@ -1,0 +1,27 @@
+{
+    "name": "tangniyuqi/yii2-layer",
+    "version": "1.0.0",
+    "description": "The layer extension for the Yii framework",
+    "keywords": ["yii2", "extension", "layer"],
+    "homepage": "https://github.com/tangniyuqi/yii2-layer",
+    "type": "yii2-extension",
+    "language": "php",
+    "license": "BSD 3-Clause",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "tangniyuqi",
+            "email": "tangniyuqi@163.com",
+            "homepage": "http://www.noooya.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "tangniyuqi\\layer\\": ""
+        }
+    }
+}
