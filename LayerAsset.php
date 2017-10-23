@@ -17,7 +17,7 @@ class LayerAsset extends \yii\web\AssetBundle
      * @inheritdoc
      */
     public $css = [
-        'skin/default/layer.css',
+        'theme/default/layer.css',
     ];
 
     /**
