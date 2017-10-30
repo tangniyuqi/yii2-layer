@@ -13,7 +13,7 @@ $ php composer.phar require tangniyuqi/yii2-layer "*"
 or add
 
 ```
-"tangniyuqi/yii2-zui": "*"
+"tangniyuqi/yii2-layer": "*"
 ```
 
 to the ```require``` section of your `composer.json` file.
