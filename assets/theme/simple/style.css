@@ -1,0 +1,2 @@
+body .layui-layer.simple { min-width:150px; background:rgba(5, 4, 4, 0.75); border:none; border-radius:4px;}
+body .layui-layer.simple .layui-layer-content { color:#FFF; padding:4px 10px;}
